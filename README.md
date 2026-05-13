@@ -1,4 +1,5 @@
 QuantEdge: Sports-Based Financial Risk & Probabilistic Forecasting Engine 📈⚽
+
 QuantEdge is a high-performance predictive framework designed to identify value discrepancies in sports markets. 
 By combining probabilistic modeling with financial risk management algorithms, the system transitions from simple "betting" to a disciplined Statistical Arbitrage approach.
 
